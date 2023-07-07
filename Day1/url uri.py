@@ -1,0 +1,1 @@
+#  schen://[username:passworld@]hostname[:port][/path][;parameters][?query][#fragment]
